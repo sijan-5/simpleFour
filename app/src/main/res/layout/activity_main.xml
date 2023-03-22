@@ -394,7 +394,7 @@
         app:menu="@menu/nav_menu"
         app:itemIconSize="35dp"
         app:itemBackground="@color/black"
-        app:itemTextColor="@color/purple_700"
+        app:itemTextColor="#453223"
         app:itemIconTint="@color/white" />
 
 </RelativeLayout>
